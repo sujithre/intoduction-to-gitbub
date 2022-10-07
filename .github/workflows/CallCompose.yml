@@ -1,0 +1,4 @@
+name: CallCompose
+on:
+ push:
+   Branches: [main]
